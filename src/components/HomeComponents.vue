@@ -467,7 +467,7 @@
 
                                 <li class="dropdown menu-item"> <a href="#" class="dropdown-toggle"
                                         data-toggle="dropdown"><i class="icon fa fa-laptop"
-                                            aria-hidden="true"></i>Electronics</a>
+                                            aria-hidden="true"></i>Electronics 123</a>
                                     <!-- ================================== MEGAMENU VERTICAL ================================== -->
                                     <ul class="dropdown-menu mega-menu">
                                         <li class="yamm-content">
