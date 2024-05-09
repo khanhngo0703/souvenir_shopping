@@ -514,7 +514,7 @@
 
                                 <li class="dropdown menu-item"> <a href="#" class="dropdown-toggle"
                                         data-toggle="dropdown"><i class="icon fa fa-paw"
-                                            aria-hidden="true"></i>Shoes</a>
+                                            aria-hidden="true"></i>Shoes 456</a>
                                     <ul class="dropdown-menu mega-menu">
                                         <li class="yamm-content">
                                             <div class="row">
