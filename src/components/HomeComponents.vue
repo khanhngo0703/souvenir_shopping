@@ -400,7 +400,7 @@
                             <ul class="nav">
                                 <li class="dropdown menu-item"> <a href="#" class="dropdown-toggle"
                                         data-toggle="dropdown"><i class="icon fa fa-shopping-bag"
-                                            aria-hidden="true"></i>Clothing</a>
+                                            aria-hidden="true"></i>Clothing 123</a>
                                     <ul class="dropdown-menu mega-menu">
                                         <li class="yamm-content">
                                             <div class="row">
